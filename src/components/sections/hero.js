@@ -66,12 +66,7 @@ const Hero = () => {
     <>
       <p>
         I’m a software Developer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on Open Source Technologies, building
-        accessible, AI-centered products at{' '}
-        <a href="https://github.com/" target="_blank" rel="noreferrer">
-          Gitpod
-        </a>
-        .
+        digital experiences. Currently, I’m focused on Open Source Technologies.
       </p>
     </>
   );

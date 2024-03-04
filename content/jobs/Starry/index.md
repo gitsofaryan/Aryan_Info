@@ -1,12 +1,14 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2023'
+title: 'OpenSource Contributor'
+company: 'Hack2Skill'
+location: 'Remote'
+range: 'May - july 2023'
+url: 'https://hack2skill.com/'
 ---
 
-- Engineered and improved major features of Starry's customer-facing Android web app using ES6, Handlebars, Backbone, Marionette, and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with the Starry Station internet router
-- Collaborated with designers and other developers to ensure thoughtful and consistent user experiences across Starry’s iOS and Android mobile apps
+- One of the most fulfilling aspects of my experience was the opportunity to work alongside talented developers from around the world, contributing to projects that had a real impact. Whether it was fixing bugs, implementing new features, or improving documentation, every contribution felt like a step towards making technology more accessible and inclusive.
+
+- Moreover, the culture of continuous learning and mentorship at Hack2Skill was invaluable. I had the privilege of learning from experienced developers, receiving feedback on my code, and exploring new technologies and methodologies. This environment fostered personal and professional growth, allowing me to push my boundaries and expand my skill set.
+
+- But beyond the technical aspects, my time at Hack2Skill taught me the importance of community and collaboration in driving meaningful change. By working together towards a common goal, we were able to achieve far more than what any of us could have accomplished individually.
